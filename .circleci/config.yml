@@ -15,7 +15,7 @@ image_config: &image_config
 
   LINUX_VERSION: UBUNTU_XENIAL
 
-  RUBY_VERSION_NUM: 2.3.7
+  RUBY_VERSION_NUM: 2.5.1
 
   NODE_VERSION_NUM: 10.6.0
 
